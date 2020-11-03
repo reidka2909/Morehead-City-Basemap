@@ -5,10 +5,10 @@ needed in a zoning map. I only highlighted these features to keep a clean map. I
 one element of the Java Script Library. I believe this is the one obsticale to my final product. 
 
 <a href=”https://github.com/reidka2909/Morehead-City-Basemap/blob/main/Capture.PNG”> 
-<img src=”Capture.PNG” alt=”Screenshot”>
+<img src=”Capture.PNG” alt=”Screenshot-Capture.PNG”>
 </a>
 
 ### Errors
 <a href=”https://github.com/reidka2909/Morehead-City-Basemap/blob/main/capture1.PNG”> 
-<img src=”capture1.PNG” alt=”Error”>
+<img src=”capture1.PNG” alt=”Error-capture1.png”>
 </a>
